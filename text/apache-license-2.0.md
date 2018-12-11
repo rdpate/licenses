@@ -1,11 +1,10 @@
-Apache License
+Apache License 2.0
 ====
 
-[Version 2.0](http://www.apache.org/licenses/LICENSE-2.0), January 2004
+* [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0), January 2004
+* [http://www.apache.org/licenses/](http://www.apache.org/licenses/)
 
-[http://www.apache.org/licenses/](http://www.apache.org/licenses/)
-
-Terms and Conditions for Use, Reproduction, and Distribution
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 ----
 
 1. Definitions.
